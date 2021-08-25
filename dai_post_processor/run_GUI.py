@@ -303,3 +303,6 @@ def open_doc_ai(path, return_title=False):
 
     return output
 
+
+if __name__ == '__main__':
+    main()

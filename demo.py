@@ -35,4 +35,3 @@ for file in file_list:
         a = doc2.create_json(file_name=title)
     except Exception as e:
         print(e)
-
