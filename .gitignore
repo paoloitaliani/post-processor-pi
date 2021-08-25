@@ -1,0 +1,9 @@
+venv/
+.idea/
+data/
+dist/
+__pycache__/
+dai_post_processor/data/
+post_processor_pi.egg-info/
+.DS_Store
+
