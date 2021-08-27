@@ -49,6 +49,7 @@ The Configuration GUI consists of two windows:
     I you press the **Draw Box** button a new window will open, and here you can
     select the portion of the page drawing a rectangle. All the text outside this
     rectangle will be ignored for all pages and documents. Below you have a demo.
-    
+    <p align="center"><img src="https://github.com/paoloitaliani/post-processor-pi/raw/master/images/gui.gif" width=600></p>
+
     
     
