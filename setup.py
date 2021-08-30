@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name='post-processor-pi',
-    version='0.1.0',
+    version='0.1.2',
     license='MIT',
     author='Paolo Italiani',
     author_email='paoita@hotmail.it',

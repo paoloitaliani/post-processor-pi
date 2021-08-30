@@ -481,7 +481,7 @@ class configGUI:
         # Buttons
         self.saveButton = Button(self.win, text="Save", command=self.save_output)
         self.graphButton = Button(self.frame1, text="Draw Box", command=self.select_thresholds)
-        self.addFilterButton = Button(self.frame2, text="Add Filter", command=self.add_filter_widget, width=15)
+        self.addFilterButton = Button(self.frame2, text="Add Point", command=self.add_filter_widget, width=15)
         self.removeFilterButton = Button(self.frame2, text="Remove Filter", command=self.remove_filter_widget, width=15)
         self.saveButton.pack(in_=bottom, side=LEFT)
         self.graphButton.place(x=250, y=65)
